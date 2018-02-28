@@ -1,5 +1,4 @@
 # ScaleFBX
----
 
 This tool is designed to scale any ascii .fbx file by a specified ammount. 
 
